@@ -10,14 +10,14 @@ For almost four years I led a team in grocery retail at Harris Farm Markets, whe
 
 | Project | Question | Key finding | Built with |
 |---|---|---|---|
-| [**E-commerce Customer Retention & Revenue Quality**](https://github.com/chithanhliu/ecommerce-retention-revenue-quality-powerbi) | Can a +1.6% sales headline be trusted? | Growth came from transactions without a Customer ID (+32.1%); identified-customer value fell 2.3% | DuckDB SQL · Power BI · DAX · 145 SQL + 137 DAX checks |
-| [**NSW Rental Market Intelligence**](https://github.com/chithanhliu/nsw-rental-market-powerbi) | Is an area really expensive, and which rent movements are real? | Simpson's paradox: houses look cheaper than flats state-wide but cost more in each region | DuckDB SQL · Power BI · DAX · 161/161 DAX–SQL matches |
+| [**E-commerce Customer Retention & Revenue Quality**](https://github.com/chithanhliu/ecommerce-retention-revenue-quality-powerbi) | Can a +1.6% sales headline be trusted? | Growth came from transactions without a Customer ID (+32.1%); identified-customer value fell 2.3% | SQL · Power BI · DAX · 145 SQL + 137 DAX checks |
+| [**NSW Rental Market Intelligence**](https://github.com/chithanhliu/nsw-rental-market-powerbi) | Is an area really expensive, and which rent movements are real? | Simpson's paradox: houses look cheaper than flats state-wide but cost more in each region | SQL · Power BI · DAX · 161/161 DAX–SQL matches |
 
 Each repository has a **PDF preview of the dashboard**, so you can see it without installing Power BI.
 
 ## 🛠 Toolkit
 
-- **Daily tools:** SQL (DuckDB, MySQL) · Power BI (DAX, Power Query, star-schema modelling) · Excel · QlikView
+- **Core skills:** SQL (data cleaning, transformation, aggregation, joins, CTEs, window functions) · Power BI (dashboards, DAX, Power Query, data modelling) · Excel · QlikView
 - **Learning:** Python (pandas, NumPy)
 - **Ways of working:** clear business questions first · validate every KPI against a second calculation · state the limitations next to the finding
 
